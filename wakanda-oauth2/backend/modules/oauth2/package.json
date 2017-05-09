@@ -1,0 +1,16 @@
+{
+  "name": "oauth2",
+  "version": "0.1.0",
+  "description": "oauth2 API",
+  "license": "MIT",
+  "author": {
+    "name": "Hassan Baroudi",
+    "email": "baroudihassan@gmail.com"
+  },
+  "engines": {
+    "wakanda": ">=1.1.1"
+  },
+  "dependencies": {
+    "query-string": ">=4.2.3"
+  }
+}
